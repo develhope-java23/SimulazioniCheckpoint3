@@ -8,6 +8,7 @@ Realize a Spring application which handles the following data:
   - id: long
   - student_id: long
   - marks: int
+  
 The following constraint must be respected:
 - Each student can submit an exercise only once, therefore there cannot be two "Exercise" entries with the same id and student_id.
 
