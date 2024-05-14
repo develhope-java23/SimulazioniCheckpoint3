@@ -11,7 +11,7 @@ Realize a Spring application which handles the following data:
   - assignedTutorId: long
   
 The following constraint must be respected:
-- Each student can only be assigned to one tutor
+- Each tutor cannot be assigned to more than 5 students
 
 The application should provide endpoints to perform the following operations:
 - Insert a new student
