@@ -5,7 +5,8 @@ Realize a Spring application which handles the following data:
   - name: String
   - email: String
 - Exercise:
-  - id: long
+  - submission_id: long (Identifier) 
+  - exercise_id: long
   - studentId: long
   - marks: int
   
