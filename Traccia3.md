@@ -6,7 +6,7 @@ Realize a Spring application which handles the following data:
   - minScore: float
 - Submission:
   - id: long (Identifier)
-  - exercise_id: long
+  - exerciseId: long
   - score: float
   
 The following constraint must be respected:
