@@ -6,7 +6,7 @@ Realize a Spring application which handles the following data:
   - email: String
 - Exercise:
   - id: long
-  - student_id: long
+  - studentId: long
   - marks: int
   
 The following constraint must be respected:
