@@ -2,7 +2,7 @@
 Realize a Spring application which handles the following data:
 - Tutor:
   - id: long (Identifier)
-  - name: long
+  - name: String
   - expertise: String
 - Student
   - id: long (Identifier)
