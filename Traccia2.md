@@ -8,7 +8,7 @@ Realize a Spring application which handles the following data:
   - id: long (Identifier)
   - name: String
   - email: String
-  - assigned_tutor_id: long
+  - assignedTutorId: long
   
 The following constraint must be respected:
 - Each student can only be assigned to one tutor
