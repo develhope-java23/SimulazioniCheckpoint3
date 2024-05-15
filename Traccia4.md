@@ -2,7 +2,7 @@
 Realize a Spring application which handles the following data:
 - Dealer:
   - id: int (Identifier)
-  - name: long
+  - name: String
   - isOwner: boolean
 - Vehicle:
   - plate: String (Identifier)
