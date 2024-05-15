@@ -7,7 +7,7 @@ Realize a Spring application which handles the following data:
 - ExerciseSubmission:
   - submissionId: long (Identifier) 
   - exerciseId: long
-  - studentId: long (References Student.id)
+  - student: Student (References Student.id)
   - marks: byte
   
 The following constraint must be respected:
