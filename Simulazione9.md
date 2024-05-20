@@ -14,8 +14,8 @@ The following constraint must be respected:
 - Each tutor cannot be assigned to more than 5 students
 
 The application should provide endpoints to perform the following operations:
-- Insert a new student
 - Insert a new tutor
+- Insert a new student
 - Retrieve a specific student
 - Modify a student's tutor
 - Get the number of students assigned to a tutor
