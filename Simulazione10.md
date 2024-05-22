@@ -11,7 +11,7 @@ Realize a Spring application which handles the following data:
   - marks: short
   
 The following constraint must be respected:
-- Submission marks must be comprised between 0 and 5. If marks is -1, it means that the exercise has not been assessed yet.
+- Submission marks must be comprised between -1 and 5. If marks is -1, it means that the exercise has not been assessed yet.
 
 The application should provide endpoints to perform the following operations:
 - Insert a new student
