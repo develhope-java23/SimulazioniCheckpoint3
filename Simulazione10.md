@@ -18,4 +18,3 @@ The application should provide endpoints to perform the following operations:
 - Insert a new exercise submission
 - Retrieve all exercise submissions from a given student that have not been assessed yet
 - Modify an exercise marks, respecting the relative constraint
-- 
